@@ -34,3 +34,6 @@ indent_style = tab
 indent_style = space
 indent_size = 2
 end_of_line = crlf
+git add .
+git commit -m "Initial commit (Added project configuration)"
+git push
