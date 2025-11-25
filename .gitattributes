@@ -5,4 +5,9 @@
 .github/scripts/gql_mocks.json linguist-generated=true
 third_party/LICENSES_BUNDLED.txt linguist-generated=true
 tools/build/bazel/requirements.txt linguist-generated=true
-torch/csrc/utils/generated_serialization_types.h linguist-generated=true
+torch/csrc/utils/generated_serialization_types.h linguist-generated=├── src/           # Source code
+├── tests/         # Unit or integration tests
+├── README.md      # Documentation about your project
+├── .gitignore     # Ignored files
+├── LICENSE        # Add a license for open-source projects
+
